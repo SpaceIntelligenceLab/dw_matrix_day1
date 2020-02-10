@@ -1,5 +1,4 @@
-# dw_matrix_day1
-# matrix, czyli transformacja z Vladimir'em - poznaję reguły gry
+# Matrix, czyli transformacja z Vladimir'em - poznaję reguły gry
 
 Tutaj pojawią się efekty zadań z 5 dni projektu transformacji - część pierwsza
 - a
